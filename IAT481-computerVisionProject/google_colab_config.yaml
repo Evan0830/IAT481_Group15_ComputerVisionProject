@@ -1,0 +1,6 @@
+path: '/content/drive/MyDrive/IAT481-computerVisionProject/data' # dataset root dir
+train: images/train
+val: images/val
+
+names:
+  0: policecar
